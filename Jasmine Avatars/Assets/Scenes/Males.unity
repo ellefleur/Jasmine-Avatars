@@ -179,47 +179,51 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
---- !u!1001 &542950411
+--- !u!1001 &904618053
 Prefab:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 400118, guid: 8c0407e72e54e3642ad561386cab8e25, type: 3}
+    - target: {fileID: 400118, guid: a21ab93ddbaa8c641928cc7f783683eb, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0
+      value: -1.04
       objectReference: {fileID: 0}
-    - target: {fileID: 400118, guid: 8c0407e72e54e3642ad561386cab8e25, type: 3}
+    - target: {fileID: 400118, guid: a21ab93ddbaa8c641928cc7f783683eb, type: 3}
       propertyPath: m_LocalPosition.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 400118, guid: 8c0407e72e54e3642ad561386cab8e25, type: 3}
+    - target: {fileID: 400118, guid: a21ab93ddbaa8c641928cc7f783683eb, type: 3}
       propertyPath: m_LocalPosition.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 400118, guid: 8c0407e72e54e3642ad561386cab8e25, type: 3}
+    - target: {fileID: 400118, guid: a21ab93ddbaa8c641928cc7f783683eb, type: 3}
       propertyPath: m_LocalRotation.x
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 400118, guid: 8c0407e72e54e3642ad561386cab8e25, type: 3}
+    - target: {fileID: 400118, guid: a21ab93ddbaa8c641928cc7f783683eb, type: 3}
       propertyPath: m_LocalRotation.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 400118, guid: 8c0407e72e54e3642ad561386cab8e25, type: 3}
+    - target: {fileID: 400118, guid: a21ab93ddbaa8c641928cc7f783683eb, type: 3}
       propertyPath: m_LocalRotation.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 400118, guid: 8c0407e72e54e3642ad561386cab8e25, type: 3}
+    - target: {fileID: 400118, guid: a21ab93ddbaa8c641928cc7f783683eb, type: 3}
       propertyPath: m_LocalRotation.w
       value: 1
       objectReference: {fileID: 0}
-    - target: {fileID: 400118, guid: 8c0407e72e54e3642ad561386cab8e25, type: 3}
+    - target: {fileID: 400118, guid: a21ab93ddbaa8c641928cc7f783683eb, type: 3}
       propertyPath: m_RootOrder
       value: 2
       objectReference: {fileID: 0}
+    - target: {fileID: 100118, guid: a21ab93ddbaa8c641928cc7f783683eb, type: 3}
+      propertyPath: m_Name
+      value: MaleHand
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 8c0407e72e54e3642ad561386cab8e25, type: 3}
+  m_SourcePrefab: {fileID: 100100000, guid: a21ab93ddbaa8c641928cc7f783683eb, type: 3}
   m_IsPrefabAsset: 0
 --- !u!1 &1798269422
 GameObject:
